@@ -1,2 +1,2 @@
 # Quizzler
-A Quiz Application - Project created for INT213
+A Quiz Application - Mini Project created for INT213
