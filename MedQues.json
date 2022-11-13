@@ -32,7 +32,7 @@
     ],
     [
       "In Python all functions should have a docstring",
-      " Docstrings can be accessed by the __doc__ attribute on objects",
+      "Docstrings can be accessed by the __doc__ attribute on objects",
       "It provides a convenient way of associating documentation",
       "All of the mentioned"
     ]
